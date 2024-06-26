@@ -1,4 +1,4 @@
-# React Used Social Media App
+# Social Media App Used advanced React Concept
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
